@@ -48,3 +48,12 @@ All capacitors are 1 kV 1206 package.
 ### Inductors L1/L2
 
 Here is a selection of inductor values we have tried.
+
+| value         | manufacturer | part number                       |  vendors |
+| :------------ | :----------- | :-------------------------------- | :------- |
+| 33 uH         | Murata       | 22R333C                           | [Mouser](https://www.mouser.com/ProductDetail/Murata-Power-Solutions/22R333C?qs=AG1tZYOK7s5pE%2FTYgTs9bg%3D%3D) |
+| 47 uH         | Murata       | 22R473C                           | [Mouser](https://www.mouser.com/ProductDetail/Murata-Power-Solutions/22R473C?qs=%2Fha2pyFadugoA%2Fk5i2DUbgFpVnul5qs31wjF4kEwPYY%3D) |
+| 68 uH         | Murata       | 22R683C                           | [Mouser](https://www.mouser.com/ProductDetail/Murata-Power-Solutions/22R683C?qs=%2Fha2pyFaduhlAKY0M3i02bKEquptsHNV%2Fctmf2oZRWA%3D) |
+| 100 uH        | Murata       | 22R104C                           | [Mouser](https://www.mouser.com/ProductDetail/Murata-Power-Solutions/22R104C?qs=%2Fha2pyFaduhkBoeUh6V30xx9He2flPOg7g7wQHv1g4k%3D) |
+| 150 uH        | Murata       | 22R154C                           | [Mouser](https://www.mouser.com/ProductDetail/Murata-Power-Solutions/22R154C?qs=%2Fha2pyFaduiTZaBPCTvNTsouAFHewVG7TfxtlnQlubA%3D) |
+| 220 uH        | Murata       | 22R224C                           | [Mouser](https://www.mouser.com/ProductDetail/Murata-Power-Solutions/22R224C?qs=%2Fha2pyFaduht2UPdDLlcZfB5aVrFhnwJo8oyD0ERCHs%3D) |
