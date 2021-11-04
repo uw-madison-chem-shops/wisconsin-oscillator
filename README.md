@@ -24,7 +24,7 @@ All other parts are listed below.
 | C2                | various      | 2.2 pF ceramic, 1kV, 1206 package | [Mouser](https://www.mouser.com/ProductDetail/Walsin/1206N2R2C102CT?qs=ZrPdAQfJ6DMo6D%2FvZxBqfw%3D%3D) |
 | C3, C4            | various      | 4.7 nF ceramic, 1kV, 1206 package | [Mouser](https://www.mouser.com/ProductDetail/Kyocera-AVX/1206AC472MAT1A?qs=%2Fha2pyFaduhzfYpjb5v9%2FX3y5jlWBFFWEQhcr6uCzhXR56xULseKBA%3D%3D) |
 | C5                | various      | 100 uF electrolytic               | [Mouser](https://www.mouser.com/ProductDetail/CDE-Illinois-Capacitor/107CKE025MEM?qs=3tP%252BN51vMXeOVuB%252BkBNQFQ%3D%3D) |
-| C6                | various      | 330 nF ceramic, 1206 package      | [Mouser](https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL31C332JBFNNNE?qs=%2Fha2pyFaduhPzWFCM51KQEWJ40%252BY2tgediDfDzBWCkuVgZGDNgIATFe5%252BxLhkX0v) |
+| C6                | various      | 3.3 nF ceramic, 1206 package      | [Mouser](https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL31C332JBFNNNE?qs=%2Fha2pyFaduhPzWFCM51KQEWJ40%252BY2tgediDfDzBWCkuVgZGDNgIATFe5%252BxLhkX0v) |
 | J1, J2, J3, J4    | Molex        | 22-23-2021                        | [Mouser](https://www.mouser.com/ProductDetail/Molex/22-23-2021?qs=%2Fha2pyFaduiHQLs56YZXs3AkvtRoBprDw5MnVZuMKr8%3D) |
 | R1                | various      | 6.8 kOhm, 1206 package            | [Mouser](https://www.mouser.com/ProductDetail/Panasonic/ERJ-8ENF6801V?qs=%2Fha2pyFaduh7VP2GfmkMxHOCEV8rtbSgRKUNEyrhBWx1%252BvfOW9YFPw%3D%3D) |
 | R2, R3            | varous       | 1 Mohm, 1206 package              | [Mouser](https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW12061M00FKEAC?qs=%2Fha2pyFaduh62bXGafpVtEasjFvzCXuSdredFavJVIq3S3FLHV7HVu%2Fl5Mz9wsE3) |
@@ -35,4 +35,16 @@ All other parts are listed below.
 
 ### Capacitor C1
 
+Here is a selection of capacitor values we have tried.
+All capacitors are 1 kV 1206 package.
+
+| value         | manufacturer | part number                       |  vendors |
+| :------------ | :----------- | :-------------------------------- | :------- |
+| 56 pF         | Yageo        | CC1206JKNPOCBN560                 | [Mouser](https://www.mouser.com/ProductDetail/Yageo/CC1206JKNPOCBN560?qs=57cj7OiSijk2ADKKy4CU4w%3D%3D) |
+| 68 pF         | Yageo        | CC1206JKNPOCBN680                 | [Mouser](https://www.mouser.com/ProductDetail/YAGEO/CC1206JKNPOCBN680?qs=%2Fha2pyFadug73UYpGd%252BxPCodrP9t1yPAmB6ei%252BRQAXUgR15E4Y3f04eqgfo8VHxn) |
+| 82 pF         | Yageo        | CC1206JKNPOCBN820                 | [Mouser](https://www.mouser.com/ProductDetail/YAGEO/CC1206JKNPOCBN820?qs=%2Fha2pyFaduh7TvSxD6fC4KQyd0WEN8cCHOqGNtgg9MbcnQ3QLJdDsRoXSgCCCvv1) |
+| 100 pF        | Yageo        | CC1206JKNPOCBN101                 | [Mouser](https://www.mouser.com/ProductDetail/YAGEO/CC1206JKNPOCBN101?qs=%2Fha2pyFadujRA6m79NnYQujiXiLHd9w8NvfQhCb8VhSoiFxooafVE%252BzvpZqtWvYF) |
+
 ### Inductors L1/L2
+
+Here is a selection of inductor values we have tried.
